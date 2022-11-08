@@ -42,10 +42,10 @@ input {
     border-radius: 100px;
 }
 button{
-    background-color: black;font-size: 30px;
+    background-color: black;font-size: 25px;
     color: white;
-    width: 20%;
-    padding: 12px 20px;
+    width: 15%;
+    padding: 12px 3px;
     margin: 8px 0;
     display: inline-block;
     border: 1px solid #ccc;
@@ -69,4 +69,8 @@ button:hover{
 }
 #link a:hover{
     color: red;
+}
+#formforget p{
+    display: inline-flex;
+    margin-left: 680px;
 }
